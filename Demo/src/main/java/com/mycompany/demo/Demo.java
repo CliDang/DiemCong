@@ -15,5 +15,9 @@ public class Demo {
         System.out.println("Hello World!");
         
         System.out.println("Hey");
+        
+        int a= 19;
+        a=a+1;
+        System.out.println(a);
     }
 }
